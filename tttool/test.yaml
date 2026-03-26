@@ -1,0 +1,9 @@
+product-id: 950
+comment: Mein erstes Tiptoi-Projekt
+
+scripts:
+  test_feld:
+    - P(hallo)
+
+speak:
+  hallo: audio/hallo.ogg
